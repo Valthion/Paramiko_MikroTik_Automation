@@ -14,4 +14,4 @@ Prerequisites: Configured routers (IP addresses) with username and password
 
 This script could be used to execute any kind of configuration that is supported by the router, so make sure your config file is in .txt and each syntaxes typed properly.
 
-* *Can be used for wide variety of routers and brands.
+*Can be used for wide variety of routers and brands.
