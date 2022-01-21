@@ -1,5 +1,5 @@
 # Paramiko_MikroTik_Automation
-An example for disabling services in MikroTik using Python and Paramiko
+An example for network automation in MikroTik using Python and Paramiko
 
 Prerequisites: Configured routers (IP addresses) with username and password
 
@@ -12,3 +12,4 @@ Prerequisites: Configured routers (IP addresses) with username and password
 * Config process will start after you entered the username and password of the router (Each router should have the same user and pass)
 
 Execute the script by typing in terminal/cmd: python3 automation.py
+This script could be used to execute any kind of configuration that is supported by the router, so make sure your config file is in .txt and each syntaxes typed properly
