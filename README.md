@@ -1,5 +1,5 @@
-# Paramiko_MikroTik_Automation
-An example for network automation in MikroTik using Python and Paramiko
+# Paramiko_Network_Automation
+An example for network automation using Python and Paramiko
 
 Prerequisites: Configured routers (IP addresses) with username and password
 
@@ -13,3 +13,4 @@ Prerequisites: Configured routers (IP addresses) with username and password
 
 Execute the script by typing in terminal/cmd: python3 automation.py
 This script could be used to execute any kind of configuration that is supported by the router, so make sure your config file is in .txt and each syntaxes typed properly
+Can be used for wide variety of routers and brands
