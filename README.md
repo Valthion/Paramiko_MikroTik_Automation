@@ -10,3 +10,5 @@ Prerequisites: Configured routers (IP addresses) with username and password
 * Then, type your .txt file name which has configs when you're asked for the config file (Masukkan nama file konfigurasi)
 * The script will check your routers by pinging 4 times before the address added to the arrays
 * Config process will start after you entered the username and password of the router (Each router should have the same user and pass)
+
+Execute the script by typing in terminal/cmd: python3 automation.py
