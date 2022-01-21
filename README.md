@@ -14,4 +14,4 @@ Prerequisites: Configured routers (IP addresses) with username and password
 
 This script could be used to execute any kind of configuration that is supported by the router, so make sure your config file is in .txt and each syntaxes typed properly.
 
-*Tested on MikroTik but might be possible to be used for other brands
+*Tested on MikroTik but might be possible to be used on other brands
