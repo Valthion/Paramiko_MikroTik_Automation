@@ -1,4 +1,4 @@
-# Paramiko_MikroTik_Config_Disable_Services
+# Paramiko_MikroTik_Automation
 An example for disabling services in MikroTik using Python and Paramiko
 
 Prerequisites: Configured routers (IP addresses) with username and password
